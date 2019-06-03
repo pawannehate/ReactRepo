@@ -1,0 +1,37 @@
+body{
+    background-color: #eee;
+}
+.App{
+    text-align: center;
+}
+
+.Cards{
+    background-color: white;
+    width:49%;
+    margin:4px;
+    float: left;
+}
+
+.PredictionCards{
+    background-color: white;
+    width:99%;
+    margin:4px;
+    float:left;
+}
+
+.CardIcons{
+    width: 100px;
+    height: 100px;
+}
+
+.DataContent{
+    width:65%;
+    float:left;
+}
+
+.Prediction{
+    width:30%;
+    float:left;
+}
+
+
